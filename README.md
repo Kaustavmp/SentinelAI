@@ -53,6 +53,15 @@ SentinelAI reflects the next frontier in AI-native cybersecurity—autonomous, r
 
 ---
 
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+    
 ## 📂 Coming Soon
 
 - 📊 Jupyter Notebooks for training logs  
